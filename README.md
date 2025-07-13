@@ -9,7 +9,7 @@ Beberapa pertanyaan yang dijawab pada customer analytics report ini
 - Dan seberapa banyak customers tersebut yang sudah melakukan transaksi?
 - Category produk apa saja yang paling banyak dibeli oleh customers?
 - Seberapa banyak customers yang tetap aktif bertransaksi?
-Tabel yang akan digunakan pada project kali ini adalah sebagai berikut (Asumsikan tahun yang sedang berjalan adalah tahun 2014)
+Tabel yang akan digunakan pada project kali ini adalah sebagai berikut (Asumsikan tahun yang sedang berjalan adalah tahun 2004)
 <img width="422" height="183" alt="image" src="https://github.com/user-attachments/assets/9abf5f7f-47d0-4678-84ea-dbfaee9f9adb" />
 
 Tabel orders_1 : Berisi data terkait transaksi penjualan periode quarter 1 (Jan – Mar 2004)
@@ -129,7 +129,7 @@ Output:
 
 <img width="121" height="142" alt="image" src="https://github.com/user-attachments/assets/24b410bf-f475-4a3c-981b-61762d41c1a7" />
 
-# Kesimpulan
+## Kesimpulan
 - Performance xyz.com menurun signifikan di quarter ke-2, terlihat dari nilai penjualan dan revenue yang drop hingga 20% dan 24%,
 perolehan customer baru juga tidak terlalu baik, dan sedikit menurun dibandingkan quarter sebelumnya.
 - Ketertarikan customer baru untuk berbelanja di xyz.com masih kurang, hanya sekitar 56% saja yang sudah bertransaksi. Disarankan tim Produk untuk perlu mempelajari behaviour customer dan melakukan product improvement, sehingga conversion rate (register to transaction) dapat meningkat.
